@@ -1,0 +1,62 @@
+commit c2ec388a727679149c2f26c21fb75481d09e645a
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Mon Feb 5 22:19:43 2024 -0600
+
+    created tag for master branch
+
+commit af135ad73550c6e59cd7d4118fc25788d29513b4
+Merge: d37663f a8c34f9
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 15:57:45 2024 -0600
+
+    Resolve Merge Conflict
+
+commit a8c34f91e194deaeb06fb9c0aa7d43180e1f1feb
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 15:50:47 2024 -0600
+
+    added for conflict testing
+
+commit d37663f7ec40a8113e35dbca2dfeecd10946765e
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 15:47:11 2024 -0600
+
+    Added version number to readme file
+
+commit 372024c9185edfc4b0e3da4086527b785101b446
+Merge: 71ca84d 2d2a7d7
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 15:41:43 2024 -0600
+
+    Merge branch 'Test'
+    Merging to simulate conflict
+
+commit 71ca84dab254e10e8361685dce97821b162d32fd
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 15:41:31 2024 -0600
+
+    added version number
+
+commit 2d2a7d78120f829982a406cdbcfe0cd8f1dd70a5
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 15:29:18 2024 -0600
+
+    added new branch 'test' and edited readme.md file
+
+commit 2288e29ca343b8602e5830c8b6c3d95c046eec28
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 15:24:43 2024 -0600
+
+    Added new Branch named Test and added student ID to readme file
+
+commit 5be7f5952a28a631edf1ab8fbc95939fb42ac407
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 14:31:24 2024 -0600
+
+    Added three html files and modified readme.md file
+
+commit 4ca0e8e1faa00e27fe18a394beac33433d0c6a14
+Author: Ross Gander <rgander@wgu.edu>
+Date:   Sat Feb 3 14:05:29 2024 -0600
+
+    my first commit

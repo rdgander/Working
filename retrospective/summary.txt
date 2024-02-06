@@ -1,0 +1,8 @@
+How merge conflict was resolved in part E1.)
+	- In order to fix the merging conflicts between the two branches of Working and Test, I switched to the Working (master) 
+          branch and used git add to let get know of the most recent change on the master branch i would like to merge with the other branch.
+	  After this, I continued to commit the new changes on the master branch of Working and then pushed them to gitlab. Once this has been
+	  completed on the master branch, all merging conflicts had been resolved. 
+
+Three changes made in part C1.)
+         - In part C, I simply created three newly separated html files within the working branch.
